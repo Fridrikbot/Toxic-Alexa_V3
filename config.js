@@ -42,8 +42,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['918270026275','916380260672'] //you can add multiple number
-global.ownername = "𝗧𝚯𝗫𝗜𝗖 𝗧𝗨𝗥𝗕𝚯"
+global.owner = ['+212672047604','+212672047604'] //you can add multiple number
+global.ownername = "𝔽ℝ𝕀𝔻ℝ𝕀𝐊 𝔹𝕆𝕋"
 global.ytname = "YT: Turbo Mods" //ur yt chanel name
 global.socialm = "GitHub: TURBOHYPER" //ur github or insta name
 global.location = "India, TamilNadu, Coimbatore" //ur location
@@ -56,8 +56,8 @@ global.packname = "𝗧𝚯𝗫𝗜𝗖 ₪ 𝚫𝗟𝗘𝗫𝚫"
 global.author = "𝗧𝚯𝗫𝗜𝗖 𝗧𝗨𝗥𝗕𝚯"
 global.themeemoji = "💖"
 global.reactmoji = "🌹"
-global.ownertag = ['916380260672'] //ur owner number
-global.ownernummenu = ['916380260672'] //ur owner number in menu and all
+global.ownertag = ['+212672047604'] //ur owner number
+global.ownernummenu = ['+212672047604'] //ur owner number in menu and all
 global.watermark = " 𝗧𝚯𝗫𝗜𝗖 𝗧𝗨𝗥𝗕𝚯" //ur watermark
 global.botscript = "https://github.com/TURBOHYPER/Toxic-Alexa_V3"
 global.linkz1 = "https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp"
